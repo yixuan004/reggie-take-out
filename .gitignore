@@ -1,0 +1,7 @@
+# 全局的
+.DS_Store
+**/.DS_Store
+.DS_Store?
+
+# 项目特殊的
+application.yml
